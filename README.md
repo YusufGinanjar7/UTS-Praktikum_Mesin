@@ -1,6 +1,5 @@
-# UTS-Praktikum_Mesin
-
 # UTS Praktikum Pembelajaran Mesin  
+
 ## Klasifikasi Kelayakan Kredit Komputer dengan Naive Bayes (NIM Genap)
 
 ## Tahapan Pembuatan Model
